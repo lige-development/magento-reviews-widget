@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<config>
+      <modules>
+        <Lige_ReviewsWidget>
+          <version>0.1.0</version>
+        </Lige_ReviewsWidget>
+      </modules>
+      <global>
+        <blocks>
+          <ReviewsWidget>
+            <class>Lige_ReviewsWidget_Block</class>
+          </ReviewsWidget>
+        </blocks>
+
+        <helpers>
+            <ReviewsWidget>
+                <class>Lige_ReviewsWidget_Helper</class>
+            </ReviewsWidget>
+        </helpers>
+      </global>
+</config>

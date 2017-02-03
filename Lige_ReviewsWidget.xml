@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Lige_ReviewsWidget>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends>
+                <Mage_Cms />
+            </depends>
+        </Lige_ReviewsWidget>
+    </modules>
+</config>

@@ -1,0 +1,6 @@
+<widgets>
+    <ReviewsWidget_reviews type="ReviewsWidget/reviews">
+        <name>Customer reviews</name>
+        <description type="desc">Latest approved customer reviews on all products</description>
+    </ReviewsWidget_reviews>
+</widgets>
